@@ -20,5 +20,5 @@ spec:
     ports:
     - containerPort: 8000
       name: metrics
-    command: ["python", "scrape_modem.py", "http://192.168.100.1/MotoConnection.asp"]
+    command: ["python", "scrape_modem.py", "http://XYZ/MotoConnection.asp"]
 ```
