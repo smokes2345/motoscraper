@@ -1,5 +1,4 @@
-modem_scraper/scrape_modem.py
-# modem_scraper/main.py
+# modem_scraper/scrape_modem.py
 import requests
 from bs4 import BeautifulSoup
 from prometheus_client import make_wsgi_app, Histogram, Counter, Gauge
